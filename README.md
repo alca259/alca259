@@ -19,6 +19,9 @@ También soy bastante fan de aprender por curiosidad. A veces sobre bases de dat
 
 Este GitHub no es un escaparate para venderme. Es más bien mi taller 🛠️: un sitio donde guardar ideas, experimentos, aprendizajes, herramientas, proyectos a medias y obsesiones temporales. Algunas cosas estarán terminadas. Otras probablemente existan solo porque una noche pensé “voy a probar una cosa” y se me fue de las manos.
 
+También tengo mi taller en Instagram, donde voy subiendo algunas cosillas que voy haciendo.
+Puedes seguirme [aquí](https://www.instagram.com/zaracatralla.studio).
+
 Si algo de aquí te sirve, te inspira o simplemente te hace pensar “anda, yo también hago eso”, entonces ya ha merecido la pena 😊
 
 # 💻 Tech Stack:
